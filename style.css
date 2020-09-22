@@ -5,7 +5,9 @@ body {
     background-size: cover;
 }
 .container {
-    background-color: ivory;
-    margin-top: 20px;
+    background-color:silver;
 }
 
+.container-fluid {
+    background-color: silver;
+}
