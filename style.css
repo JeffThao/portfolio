@@ -1,13 +1,15 @@
 body {
-    background-image: url(https://images.pexels.com/photos/434337/pexels-photo-434337.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-image: url(https://images.pexels.com/photos/34580/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
 }
 .container {
-    background-color:silver;
+    background-color:ivory;
+
 }
 
 .container-fluid {
-    background-color: silver;
+    background-color: ivory;
 }
