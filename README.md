@@ -1,6 +1,6 @@
 # Portfolio
 
-<a href=" https://jeffthao.github.io/portfolio/">
+https://jeffthao.github.io/portfolio/
 
 This is a webpage portfolio of my work. I will be adding more projects along the way and making this page more responsive. I hope you have fun following along my coding journey.
 
