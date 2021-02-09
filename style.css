@@ -5,22 +5,31 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+nav {
+    background-color: #019EF3;
+}
+
+.fa{
+    color: black;
+}
+
+footer{
+    background-color: #019EF3;
+}
+
 .container {
-    background-color:ivory;
+    background-color:#A4DFFD;
 
 }
 
 .container-fluid {
-    background-color: ivory;
+    background-color:;
 }
 
 img {
     width: 60%;
     padding: 30px;
-}
-
-a {
-    padding: 10px;
 }
 
 .about-contact {
