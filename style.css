@@ -1,9 +1,9 @@
 body {
-    background-image: url(https://images.pexels.com/photos/34580/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    /* background-image: url(https://images.pexels.com/photos/34580/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
 }
 
 nav {
@@ -16,6 +16,9 @@ nav {
 
 footer{
     background-color: #019EF3;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .container {
@@ -24,7 +27,7 @@ footer{
 }
 
 .container-fluid {
-    background-color:;
+    background-color: grey;
 }
 
 img {
